@@ -91,3 +91,40 @@ nav ul li:hover{
     padding: 50px;
     justify-content: center;
 }
+
+
+/******************** top section done ********************/
+
+.service-section{
+    margin: 50px 0;
+}
+
+.service-intro{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.service-intro p span{
+    color: #FFCB45;
+}
+
+.service-intro p{
+    color: #1D1D1D;
+}
+
+.services{
+    padding: 20px 100px;
+    display: flex;
+    gap: 25px;
+    justify-content: space-between;
+}
+
+.services div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
